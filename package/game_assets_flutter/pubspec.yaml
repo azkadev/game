@@ -1,0 +1,27 @@
+name: 'game_assets_flutter'
+description: 'A Library for make game More easy'
+version: '0.0.5'
+homepage: 'https://github.com/azkadev/game'
+environment: 
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: '>=1.17.0'
+dependencies: 
+  flutter: 
+    sdk: 'flutter'
+dev_dependencies: 
+  flutter_test: 
+    sdk: 'flutter'
+  flutter_lints: '^3.0.0'
+flutter: null
+repository: 'https://github.com/azkadev/game'
+issue_tracker: 'https://github.com/azkadev/game/issues'
+documentation: 'https://github.com/azkadev/game/tree/main/docs'
+funding: 
+  - 'https://github.com/sponsors/azkadev'
+platforms: 
+  android: null
+  ios: null
+  linux: null
+  macos: null
+  web: null
+  windows: null
