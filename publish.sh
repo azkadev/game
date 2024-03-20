@@ -1,5 +1,21 @@
 #!/bin/sh
+cd /home/galaxeus/Documents/fork/game/package/game_macos
+dart pub publish -f
 
+cd /home/galaxeus/Documents/fork/game/package/game_server
+dart pub publish -f
+
+cd /home/galaxeus/Documents/fork/game/package/game_flutter
+dart pub publish -f
+
+cd /home/galaxeus/Documents/fork/game/package/game_dart
+dart pub publish -f
+
+cd /home/galaxeus/Documents/fork/game/package/game_cli
+dart pub publish -f
+
+cd /home/galaxeus/Documents/fork/game/package/game_assets_flutter
+dart pub publish -f
 
 cd /home/galaxeus/Documents/fork/game/package/game
 dart pub publish -f
