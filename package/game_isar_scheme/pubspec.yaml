@@ -1,8 +1,8 @@
 name: 'game_isar_scheme'
 description: 'A Library for make game More easy'
-version: '0.0.5'
+version: '0.0.0'
 environment: 
-  sdk: '^3.3.0'
+  sdk: '>=3.3.3 <4.0.0'
 dependencies: null
 dev_dependencies: 
   lints: '^3.0.0'
@@ -20,3 +20,6 @@ platforms:
   macos: null
   web: null
   windows: null
+publish_to: 'none'
+dependency_overrides: 
+  pointycastle: '3.8.0'

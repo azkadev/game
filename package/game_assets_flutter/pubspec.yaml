@@ -1,9 +1,9 @@
 name: 'game_assets_flutter'
 description: 'A Library for make game More easy'
-version: '0.0.5'
+version: '0.0.0'
 homepage: 'https://github.com/azkadev/game'
 environment: 
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: '>=3.3.3 <4.0.0'
   flutter: '>=1.17.0'
 dependencies: 
   flutter: 
@@ -25,3 +25,6 @@ platforms:
   macos: null
   web: null
   windows: null
+publish_to: 'none'
+dependency_overrides: 
+  pointycastle: '3.8.0'
