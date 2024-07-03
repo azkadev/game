@@ -1,1 +1,9 @@
 build/
+*.exe
+*.deb
+*.sqlite-*
+*.sqlite
+docs/canvaskit
+*/canvaskit
+.dart_tool/
+/build/
