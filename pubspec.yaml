@@ -17,7 +17,7 @@ platforms:
 environment: 
   sdk: '>=3.3.3 <4.0.0'
 dependencies: 
-  general_lib: '^0.0.43'
+  general_lib: '^0.0.44'
   http: '^1.2.1'
   mason_logger: '^0.2.11'
   packagex: '^0.0.59'
