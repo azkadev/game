@@ -11,13 +11,14 @@ dependencies:
 dev_dependencies: 
   flutter_test: 
     sdk: 'flutter'
-  flutter_lints: '^3.0.0'
+  flutter_lints: '^4.0.0'
 flutter: null
 repository: 'https://github.com/azkadev/game'
 issue_tracker: 'https://github.com/azkadev/game/issues'
 documentation: 'https://github.com/azkadev/game/tree/main/docs'
 funding: 
   - 'https://github.com/sponsors/azkadev'
+  - 'https://github.com/sponsors/generalfoss'
 platforms: 
   android: null
   ios: null
